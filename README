@@ -1,3 +1,8 @@
+Exécution du projet 
+--------------------
+1) make 
+2) ./dpll cnf_file
+                
                 Mini-projet 1 : solveur DPLL récursif
 
 
